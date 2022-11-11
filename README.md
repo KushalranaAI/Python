@@ -1,2 +1,3 @@
-# Python
-Let's learn python together.
+# Python for data analysis.
+
+
